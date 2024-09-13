@@ -1,8 +1,5 @@
 # Image Clarity Measurement using multiscale Top-Hat Transform with Geodesic Reconstruction (MCMTH)
 
-Please cite:
-
-
 # ImageJ
 An open platform for scientific image analysis. (https://imagej.net/Welcome) 
 
